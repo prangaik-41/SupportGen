@@ -186,7 +186,8 @@ Your video should cover:
 ---
 
 ## 10. Team
-- **Your Name** — Full-stack development, agent pipeline design, evaluation, deployment, and documentation
+- **Pranav Gaikwad** 
+- **Sanchali Torpe** -
 
 ---
 
