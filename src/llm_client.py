@@ -11,6 +11,13 @@ To swap to a real model:
 
 from typing import Dict, Tuple
 import random
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # loads .env file
+
+GEMINI_KEY = os.getenv("AIzaSyCaxFXC0E7mp95UzJmbmjYZvdH5v4IzAs4")
+
 
 class MockLLMClient:
     def __init__(self):
