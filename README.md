@@ -1,4 +1,6 @@
 # SupportGen — AI Customer Support Ticket Automation Agent
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 ## 1. Elevator Pitch
 **Problem:** Customer support teams spend significant time manually triaging, summarizing, and drafting responses to repetitive support tickets, leading to slower response times and inconsistent resolutions.
