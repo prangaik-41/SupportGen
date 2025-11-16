@@ -1,0 +1,7 @@
+[
+  {"user_id": "u001", "text": "I was charged twice for order ORD1001. Please refund.", "expected_category": "billing", "expected_action": "create_refund_ticket", "expected_reply": "We're sorry — we see a duplicate charge and will start a refund."},
+  {"user_id": "u002", "text": "My internet disconnects every 10 minutes.", "expected_category": "technical", "expected_action": "create_escalation_ticket", "expected_reply": "Apologies — we'll escalate this to our technical team."},
+  {"user_id": "u003", "text": "Where is my package ORD2002? It's late.", "expected_category": "delivery", "expected_action": "create_tracking_ticket", "expected_reply": "We’ll check your shipment status and update you shortly."},
+  {"user_id": "u004", "text": "I forgot my password and can't login.", "expected_category": "account", "expected_action": "send_password_reset", "expected_reply": "I can help reset your password. Please follow these steps..."},
+  {"user_id": "u005", "text": "I want to cancel my order ORD3003 and get a refund.", "expected_category": "refund", "expected_action": "create_refund_ticket", "expected_reply": "We can start your refund and cancel the order."}
+]
