@@ -120,6 +120,7 @@ reports/eval_report.json
 ---
 ```
 ## 7. Deployment
+
 ### **Option A — Docker**
 ```bash
 docker build -t supportgen .
@@ -135,6 +136,12 @@ docker run -p 8080:8080 supportgen
 
 ## 8. Video
 YouTube link: <paste link>
+Video should include:
+- Problem overview  
+- Why agents?  
+- Architecture explanation  
+- Live demo  
+- Build overview
 
 ## 9. Limitations & future work
 - Complex multi-intent tickets may require human oversight  
@@ -147,6 +154,6 @@ YouTube link: <paste link>
   - Analytics dashboard  
 
 ## 10. Team
-Names and roles.
+
 
 ## 11. License & credits
