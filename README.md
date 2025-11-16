@@ -194,5 +194,11 @@ Your video should cover:
 ---
 
 ## 11. License & Credits
-This project uses open-source libraries and LLM agent concepts for educational purposes.  
-Choose a license for your repo (MIT recommended).
+
+This project is licensed under the **MIT License**, allowing open use, modification, and distribution for both academic and commercial purposes.
+
+### Credits
+- Developed as part of **Agents Intensive — Capstone Project 1 (2025)**  
+- Designed using modern multi-agent patterns including tool-calling, memory, observability, and evaluation  
+- Includes a mock ticket API, synthetic datasets, and evaluation scripts created exclusively for demonstration purposes  
+- Thanks to the Google Agents Intensive team and Kaggle community for guidance and resources
