@@ -1,3 +1,5 @@
+# SupportGen — AI Customer Support Ticket Automation Agent
+
 ## 1. Elevator Pitch
 **Problem:** Customer support teams spend significant time manually triaging, summarizing, and drafting responses to repetitive support tickets, leading to slower response times and inconsistent resolutions.
 
@@ -187,7 +189,7 @@ Your video should cover:
 
 ## 10. Team
 - **Pranav Gaikwad** 
-- **Sanchali Torpe** -
+- **Sanchali Torpe** 
 
 ---
 
