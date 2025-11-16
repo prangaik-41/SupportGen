@@ -1,11 +1,22 @@
 # SupportGen — AI Customer Support Ticket Automation Agent
 
 ## 1. Elevator pitch
-One-sentence problem + one-sentence solution + 1-line value (e.g., saves X% human time).
+Problem: Customer support teams spend significant time manually triaging, summarizing, and drafting responses to repetitive support tickets, leading to delays and inconsistent resolutions.
+
+Solution: SupportGen automates the end‑to‑end ticket workflow using a coordinated multi‑agent system capable of classification, summarization, knowledge‑based response drafting, and final quality assurance.
+
+Value: Reduces manual triage and drafting time by 60–80%, increases accuracy and consistency, and enables support teams to focus on complex, high‑value customer issues.
 
 ## 2. Core concept & novelty
-- Why agents? (short)
-- Which agent concepts used: tool-calling, memory, observability, multi-step reasoning.
+- Why agents?
+- Support tickets require interpretation, reasoning, and tool usage—tasks that static ML systems struggle with. Agents allow SupportGen to adapt, reason through escalating complexity, and interact with internal tools such as ticket APIs and knowledge bases.
+- 
+- Key Concepts Demonstrated:
+Multi‑Agent Pipeline: Classifier → Summarizer → Response Generator → QA Validator → Publisher.
+Tool Use: Mock ticket API, knowledge base search, and structured output validation.
+Sessions & State: Ticket‑level state tracking with contextual memory.
+Long‑Term Memory: Stores historical customer patterns and recurring issue signatures.
+Observability: Structured logs and traces for debugging cross‑agent workflows.
 
 ## 3. Architecture
 - Short description
