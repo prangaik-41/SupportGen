@@ -16,7 +16,7 @@ import os
 
 load_dotenv()  # loads .env file
 
-GEMINI_KEY = os.getenv("AIzaSyCaxFXC0E7mp95UzJmbmjYZvdH5v4IzAs4")
+GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 
 
 class MockLLMClient:
