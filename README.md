@@ -190,10 +190,9 @@ Your video should cover:
 ---
 
 ## 10. Team
-- **Pranav Gaikwad** 
-- **Sanchali Torpe** 
+- **Pranav Gaikwad** — Development, Agent Architecture, Video Creation  
+- **Sanchali Torpe** — Evaluation, Testing, Documentation
 
----
 
 ## 11. License & Credits
 
