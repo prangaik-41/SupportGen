@@ -70,6 +70,8 @@ python src/eval.py --eval-set data/eval_set.csv
 
 ## 5. Files & structure
 
+
+```
 project/
 ├── src/
 │   ├── agent.py                 # Main orchestrator
@@ -90,6 +92,8 @@ project/
 │   ├── eval_report.json
 └── requirements.txt
 ```
+
+---
 ## 6. Evaluation
 
 ### **Dataset**
@@ -111,6 +115,9 @@ See the full evaluation here:
 
 ```
 reports/eval_report.json
+```
+
+---
 ```
 ## 7. Deployment
 ### **Option A — Docker**
