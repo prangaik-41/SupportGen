@@ -1,0 +1,3 @@
+[ARCHITECTURE DIAGRAM PLACEHOLDER]
+
+User → Agent → LLM → Memory → Tool Adapter → Ticket API → Logs → Output
